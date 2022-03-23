@@ -1,0 +1,10 @@
+---
+title: "distribucion"
+output:
+  pdf_document: default
+  html_document: default
+date: '2022-03-23'
+---
+#DISTRIBUCION
+
+#Suponga que se desea saber el número de llegadas de los estudiantes de una Escuela Primaria en un lapso de 15 minutos a la entrada de la escuela. Se puede suponer que la probabilidad de llegada de los estudiantes es la misma que cualquiera de los dos lapsos con la misma dirección siendo estas independientes a que llegue o no el estudiante. El número promedio de alumnos que llegan en un lapso de 15 minutos son 35.
